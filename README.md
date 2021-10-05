@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thebbmpdev
+- 👋 Hi, I’m Rogerio Menezes || @thebbmpdev
 - 👀 I’m interested in Web Development && Serverless
 - 🌱 I’m currently learning AWS Amplify
 - 📫 How to reach me rogeriomenezes.nz@gmail.com
