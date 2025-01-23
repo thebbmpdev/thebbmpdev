@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rogerio Menezes || @therogerdev
 - 👀 I’m interested in Full-stack Web Development.
-- 💻 I’m currently working mostly with React, Typescript, NextJS, NodeJS, Tailwindcss, AWS and GraphQL. 
+- 💻 I’m currently working mostly with React, Typescript, NextJS, NodeJS, Tailwindcss, AWS and GraphQL.
+- 📚 Learning web3/ blockchain development
 - 📫 How to reach me rogeriomenezes.nz@gmail.com
  
 
